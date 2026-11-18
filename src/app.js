@@ -32,7 +32,7 @@ async function loadItems() {
 async function addItem() {
   const input = document.getElementById("title-input");
   const title = input.value;
-  const color=document.getElementById("color").value
+  
 
 
   if (title === "") {

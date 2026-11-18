@@ -3,6 +3,5 @@
 
 CREATE TABLE items (
   id    SERIAL PRIMARY KEY,
-  title TEXT NOT NULL,
-  color TEXT NOT NULL
+  title TEXT NOT NULL
 );
